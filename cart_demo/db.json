@@ -1,0 +1,116 @@
+{
+    "getProductList": [
+        {
+            "id": 1,
+            "price": 20,
+            "text": "苹果（学名：Malus pumila）是水果的一种，是蔷薇科苹果亚科苹果属植物，其树为落叶乔木。",
+            "category": 1,
+            "name": "苹果"
+        },
+        {
+            "id": 2,
+            "price": 30,
+            "text": "橘（英语：Mandarin orange；学名：Citrus reticulata）是芸香科柑桔属的一种水果。",
+            "category": 1,
+            "name": "橘子"
+        },
+        {
+            "id": 3,
+            "price": 10,
+            "text": "香蕉（学名：Musa nana Lour.）芭蕉科芭蕉属植物，又指其果实。",
+            "category": 1,
+            "name": "香蕉"
+        },
+        {
+            "id": 4,
+            "price": 8500,
+            "text": "hello，未来。10 月 27 日开始预购 11 月 3 日开始发售。",
+            "category": 2,
+            "name": "iphoneX"
+        },
+        {
+            "id": 5,
+            "price": 70,
+            "text": "《JavaScript高级程序设计》是2006年人民邮电出版社出版的图书，作者是(美)(Nicholas C.Zakas)扎卡斯。",
+            "category": 3,
+            "name": "JavaScript高级程序设计"
+        },
+        {
+            "id": 6,
+            "price": 6500,
+            "text": "iPhone 8 采用了全新的双面全玻璃设计，还让备受喜爱的相机变得倍加出色，它不仅配备了 iPhone 有史以来最智能、最强大的芯片，还带来了简单便捷的无线充电，并将增强现实体验推进到更深层次。这就是 iPhone 8，新一代的 iPhone。",
+            "category": 2,
+            "name": "iphone8"
+        },
+        {
+            "id": 7,
+            "price": 4700,
+            "text": "正面几乎全是屏幕，仿佛握着一块透明玻璃，全陶瓷。",
+            "category": 2,
+            "name": "小米mix2"
+        },
+        {
+            "id": 8,
+            "price": 2500,
+            "text": "小米note3 自拍美，拍人更美。",
+            "category": 2,
+            "name": "小米Note3"
+        },
+        {
+            "id": 9,
+            "price": 90,
+            "text": "《Java编程思想》是2007年机械工业出版社出版的图书，作者是埃克尔",
+            "category": 3,
+            "name": "Java编程思想"
+        },
+        {
+            "id": 10,
+            "price": 2800,
+            "text": "安全双芯片，超清全面屏。",
+            "category": 2,
+            "name": "金立M7"
+        },
+        {
+            "id": 11,
+            "price": 20,
+            "text": "菠萝（学名：Ananas comosus），是热带水果之一。",
+            "category": 1,
+            "name": "菠萝"
+        },
+        {
+            "id": 12,
+            "price": 80,
+            "text": "Python入门经典教程。",
+            "category": 3,
+            "name": "Python基础教程"
+        },
+        {
+            "id": 13,
+            "price": 2600,
+            "text": "四摄拍照更美",
+            "category": 2,
+            "name": "金立S10"
+        },
+        {
+            "id": 14,
+            "price": 2400,
+            "text": "麦芒6，边界，我来超越",
+            "category": 2,
+            "name": "华为麦芒6"
+        },
+        {
+            "id": 15,
+            "price": 5,
+            "text": "芒果是杧果（中国植物志）的通俗名（拉丁学名：Mangifera indica L.），芒果是一种原产印度的漆树科常绿大乔木",
+            "category": 1,
+            "name": "芒果"
+        },
+        {
+            "id": 16,
+            "price": 291,
+            "text": "双瞳如小窗，佳景观历历",
+            "category": 2,
+            "name": "魅族PRO7"
+        }
+    ]
+}
